@@ -1,6 +1,6 @@
 # Checklist do Parecer
 
-Este texto reúne perguntas que aprendi a fazer ao manuscrito antes de fechar um parecer. Não é um manual teórico de peer review nem um roteiro completo de elaboração de artigos. É uma lista de checagens, em ordem de leitura, que venho consolidando na prática como revisora em periódicos e eventos científicos.
+Este texto reúne perguntas que aprendi a fazer ao manuscrito antes de fechar um parecer. Não é um manual teórico de peer review nem um roteiro completo de elaboração de artigos, é uma lista de checagens, em ordem de leitura, que venho consolidando na prática como revisora em periódicos e eventos científicos.
 
 Compartilho na esperança de que sirva a quem está começando a avaliar trabalhos, e também a quem está escrevendo um e quer se antecipar ao que provavelmente lhe será perguntado.
 
